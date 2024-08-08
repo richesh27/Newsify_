@@ -1,0 +1,9 @@
+.spinn{
+    background: none;
+    width: 12rem;
+    height: 12rem;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 8rem;
+}
